@@ -164,3 +164,6 @@
 （更多问题待补充）
 
 BTW，这个 README 是 [星野みなと](https://github.com/Skimige) 写的。
+
+5. - 打开后显示无可替换的卡片或设备不支持？
+   - magisk的挂载模式需调整，改为全局挂载。 Mount Namespace Mode -- Global Namespace。
